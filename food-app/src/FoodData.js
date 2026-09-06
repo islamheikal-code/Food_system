@@ -1,0 +1,8 @@
+export const FOOD_ITEMS = [
+  { id: 1, title: 'Truffle Burger', category: 'Burgers', description: 'Double beef patty, black truffle mayo, sharp cheddar.', price: 16.99, rating: 4.8, image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=500&q=80' },
+  { id: 2, title: 'Artisan Margherita Pizza', category: 'Pizza', description: 'San Marzano tomatoes, fresh mozzarella, organic basil.', price: 18.50, rating: 4.9, image: 'https://images.unsplash.com/photo-1604382354936-07c5d9983bd3?auto=format&fit=crop&w=500&q=80' },
+  { id: 3, title: 'Spicy Dragon Sushi Roll', category: 'Sushi', description: 'Tempura shrimp, avocado, topped with spicy tuna & unagi sauce.', price: 21.00, rating: 4.7, image: 'https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&w=500&q=80' },
+  { id: 4, title: 'Avocado Caesar Bowl', category: 'Salads', description: 'Crisp romaine, shaved parmesan, garlic croutons, avocado slice.', price: 12.99, rating: 4.5, image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=500&q=80' },
+  { id: 5, title: 'Chocolate Lava Cake', category: 'Desserts', description: 'Warm molten dark chocolate center served with vanilla bean ice cream.', price: 8.99, rating: 4.9, image: 'https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=500&q=80' },
+  { id: 6, title: 'Pepperoni Supreme Pizza', category: 'Pizza', description: 'Double pepperoni, chili flakes, honey drizzle, mozzarella.', price: 19.99, rating: 4.6, image: 'https://images.unsplash.com/photo-1628840042765-356cda07504e?auto=format&fit=crop&w=500&q=80' }
+];
