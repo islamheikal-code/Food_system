@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Typography, Box, Paper } from '@mui/material';
+import { Container, Typography, Paper } from '@mui/material';
 export const About = () => {
   return (
     <Container maxWidth="md" sx={{ py: 6 }}>
